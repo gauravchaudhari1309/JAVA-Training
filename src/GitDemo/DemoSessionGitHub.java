@@ -6,7 +6,7 @@ public class DemoSessionGitHub {
 		// TODO Auto-generated method stub
 		System.out.println("Hello mates...!");
 		System.out.println("Welcome To Github.");	
-		System.out.println("my name is Gaurav");
+		System.out.println("My name is Gaurav");
 	}
 
 }
