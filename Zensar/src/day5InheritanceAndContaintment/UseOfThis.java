@@ -1,4 +1,4 @@
-package day5Class2;
+package day5InheritanceAndContaintment;
 //this can be used to refer current class instance variable.														
 //this can be used to invoke current class method (implicitly)
 //this() can be used to invoke current class constructor.

@@ -1,4 +1,4 @@
-package day5Class2;
+package day5InheritanceAndContaintment;
 // same function name with different parameter
 public class AreaOF {
 	

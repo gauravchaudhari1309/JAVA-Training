@@ -1,4 +1,4 @@
-package day5Class2;
+package day5InheritanceAndContaintment;
 
 public class Test {
 

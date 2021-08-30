@@ -1,4 +1,4 @@
-package day5Class2;
+package day5InheritanceAndContaintment;
 
 public class Main_pen_refill_nib {
 

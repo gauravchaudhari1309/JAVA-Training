@@ -1,4 +1,4 @@
-package day5Class2;
+package day5InheritanceAndContaintment;
 /*Create a class Student with 4 variables called as rollNo, admissionNo, age, courseId.
   Each of the variables should have one of the access modifier -public, protected, no-access-modifier and private.
   Add 4 methods in the class – public, method doPublic, no access modifier method doDefault, protected method doProtected, 
