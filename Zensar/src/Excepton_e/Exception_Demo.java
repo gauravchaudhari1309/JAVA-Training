@@ -20,9 +20,17 @@ public class Exception_Demo {
 				String nm=dc.next();
 				System.out.println(nm.charAt(3));
 				
-			}catch(Exception e){
+			}catch(NullPointerException e){
 				
 				System.out.println("Invalid ip");
+			}
+			catch(InputMismatchException e) {
+				
+				System.out.println("Wrong Data");
+			}
+			catch(Exception e)
+			{
+				System.out.println("Error");
 			}
 }
 }

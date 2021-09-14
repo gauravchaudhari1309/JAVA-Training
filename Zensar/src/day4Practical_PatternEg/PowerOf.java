@@ -1,4 +1,4 @@
-package day4Practical_PatternEg;
+ package day4Practical_PatternEg;
 
 import java.util.Scanner;
 
